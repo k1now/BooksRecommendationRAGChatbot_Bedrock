@@ -58,7 +58,4 @@ A Retrieval-Augmented Generation (RAG) chatbot that recommends books based on us
   - `chatCompletion.js` - Claude 3 Sonnet chat completion
   - `dbUpload.js` - Supabase database operations
 - `server.js` - Express server setup
-
-## License
-
-ISC 
+![image](https://github.com/user-attachments/assets/d6ca7c3b-aba2-4bba-86bf-5380273c59c6)
